@@ -3,7 +3,7 @@ Home Service Robot
 
 Udacity Home Service Robot Project.  This project required a series of modules to allow the robot to navigate a custom environment, find the initial marker, pick it up and move it to selected location.
 
-  #+html:<p align="center"><img src="https://github.com/LeroyFriesenhahn//Home_Service_Robot/Final Project View.jpg" /><p>
+  #+html:<p align="center"><img src="https://github.com/LeroyFriesenhahn/Home_Service_Robot/Final Project View.jpg" /><p>
 
 The project consist of the following steps:
   
